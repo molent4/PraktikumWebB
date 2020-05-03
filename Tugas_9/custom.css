@@ -1,0 +1,25 @@
+
+h1{
+	color: #ca5116;
+}
+.lihat-tabel {
+	text-align: center;
+	border-collapse: collapse;
+    height: 60px;
+    border: 1px solid #ca5116;
+    margin-top: 15px;
+	width: 50%;
+}
+.lihat-tabel th{
+		background: #ca5116;
+		color: white;
+}
+button{
+	border: none;
+	background-color: #ca5116;
+	color: white;
+	width: 80px;
+	height: 40px;
+	margin-top: 14px;
+	border-radius: 10px;
+}
