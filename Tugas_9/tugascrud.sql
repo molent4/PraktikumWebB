@@ -1,14 +1,13 @@
 -- phpMyAdmin SQL Dump
--- version 4.9.1
+-- version 5.0.2
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 02 Bulan Mei 2020 pada 16.44
--- Versi server: 10.4.8-MariaDB
--- Versi PHP: 7.3.10
+-- Generation Time: May 04, 2020 at 04:30 AM
+-- Server version: 10.4.11-MariaDB
+-- PHP Version: 7.4.5
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET AUTOCOMMIT = 0;
 START TRANSACTION;
 SET time_zone = "+00:00";
 
@@ -25,7 +24,7 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Struktur dari tabel `tb_biodata`
+-- Table structure for table `tb_biodata`
 --
 
 CREATE TABLE `tb_biodata` (
@@ -36,21 +35,20 @@ CREATE TABLE `tb_biodata` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
--- Dumping data untuk tabel `tb_biodata`
+-- Dumping data for table `tb_biodata`
 --
 
 INSERT INTO `tb_biodata` (`NIM`, `Nama`, `Alamat`, `No_telepon`) VALUES
 ('', '', '', ''),
-('1708561030', 'I Wayan Gede Indrayasa', 'Jalan-jalan', '11122233344555'),
-('1708561031', 'Yasa', 'Jalan', '085738393032'),
-('1708561032', 'I Wayan Gede ', 'Denpasar', '12122323343434');
+('1708561032', 'budi', 'Dalungg', '081999'),
+('1708561033', 'budi', 'dalung', '08234');
 
 --
 -- Indexes for dumped tables
 --
 
 --
--- Indeks untuk tabel `tb_biodata`
+-- Indexes for table `tb_biodata`
 --
 ALTER TABLE `tb_biodata`
   ADD PRIMARY KEY (`NIM`);
