@@ -169,7 +169,13 @@
 
     <div id="section3">
         <h2>Perpustakaan Bersama</h2>
-        <p> Perpustakaan Bersama merupakan perpustakaan kota lengkap yang menyediakan buku-buku dari berbagai jenis atau berbagai genre. Pembaca dari berbagai kalangan dapat dengan nyaman membaca di perpustakaan ini. Pembaca dapat membaca langsung buku yang diinginkan di perpustakaan atapun meminjamnya untuk dibaca dirumah. Pembaca dapat meminjaman buku paling lama 2 minggu. Apabila buku tidak dikembalikan sesuai tenggat waktu, maka pembaca akan dikenakan sanksi berupa pembayaran sebesar Rp 100.000 per buku. Itulah sekilas tentang Perpustakaan Bersama. Kami akan selalu menyambut kalian dengan ramah.</p>
+            <center>
+            <p> Perpustakaan ini menyediakan buku-buku dari berbagai jenis dan genre. 
+        Pembaca dari berbagai kalangan dapat dengan nyaman membaca di perpustakaan ini. 
+        Pembaca dapat membaca buku secara langsung di perpustakaan atapun meminjamnya. 
+        Pembaca dapat meminjaman buku paling lama 2 minggu dan dikenakan sanksi berupa denda sesuai perjanjian. 
+        Itulah sekilas tentang Perpustakaan Ini. Selamat Membaca.</p>
+            </center>
     </div>
     <hr>
     <div id="section4">

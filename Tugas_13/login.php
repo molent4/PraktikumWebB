@@ -18,6 +18,7 @@
 		if ($data['status']=="user") {
 			$_SESSION['id_user'] = $data['id_user'];
 			$_SESSION['name'] = $data['nama'];
+			$_SESSION['username'] = $data['username'];
 			$_SESSION['status'] = $data['status'];
 			header("location:index.php");
 		}else if($data['status']=="admin"){
